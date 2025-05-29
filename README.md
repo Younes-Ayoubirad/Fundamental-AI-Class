@@ -1,9 +1,11 @@
 Fundamental AI Class Projects 
 
 Professor: Hossein Karshenas 
+
 https://engold.ui.ac.ir/~h.karshenas/
 
 AI Fundamentals Projects Based on Russell's Book Topics
+
 Projects Defined in University AI Classroom
 
 Project Topics:
@@ -15,5 +17,7 @@ Project Topics:
 - First-order logic: Implementation of knowledge base with prolog and agent decision system using chain of thought and first-order logic
 
 Use the "Document" PDFs to access project content
+
 Use the "Report" PDF to access project reports
+
 Use the relevant folder for each project to access source code
